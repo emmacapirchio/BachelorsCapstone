@@ -59,9 +59,9 @@ Use a physical device or simulator
 
 Sign in with Apple ID or use test credentials (if applicable)
 
-👥 Team & Contributors
+Team & Contributors
 Name	Role
 Emma Capirchio	Developer, Designer, Project Lead
 
-📝 License
+License
 This project is for academic use as part of the Senior Project course. Not licensed for commercial use.
